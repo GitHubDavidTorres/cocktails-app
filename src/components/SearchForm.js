@@ -22,7 +22,7 @@ const SearchForm = () => {
         <div className="form-control">
           <label htmlFor="name">search your favorite cocktail</label>
           <input
-            placeholder="ej:margarita"
+            placeholder="I.e:margarita"
             type="text"
             id="name"
             ref={searchValue}
